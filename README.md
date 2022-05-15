@@ -8,23 +8,11 @@
 
 💡 ISTJ-A Logistician
 
-<p><img src="https://komarev.com/ghpvc/?username=Av32000&style=flat" alt=mccoderpy></p>
-<img src="https://dcbadge.vercel.app/api/shield/593436735380127770" />
+<p><img src="https://komarev.com/ghpvc/?username=Av32000&style=flat" alt=mccoderpy> <img src="https://dcbadge.vercel.app/api/shield/593436735380127770" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=av32000&hide=contribs,prs&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=av32000&repo=Suggestions-Bot&theme=blueberry&bg_color=60,323232,151515)](https://github.com/Av32000/Suggestions-Bot) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=av32000&repo=YoutubeDownloader&theme=blueberry&bg_color=60,323232,151515)](https://github.com/Av32000/YoutubeDownloader) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=av32000&repo=CustomCsharpComponents&theme=blueberry&bg_color=60,323232,151515)](https://github.com/Av32000/CustomCsharpComponents) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=av32000&repo=VSTrad&theme=blueberry&bg_color=60,323232,151515)](https://github.com/Av32000/VSTrad)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=av32000&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Av32000/Av32000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=av32000&hide=contribs,prs&show_icons=true&theme=blueberry&bg_color=60,323232,151515)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=av32000&langs_count=8&hide=asp.net,hsl&theme=blueberry&bg_color=60,323232,151515)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
