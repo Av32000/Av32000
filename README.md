@@ -14,5 +14,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=av32000&hide=contribs,prs&show_icons=true&theme=blueberry&bg_color=60,323232,151515)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=av32000&langs_count=8&hide=asp.net,hsl&theme=blueberry&bg_color=60,323232,151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=av32000&langs_count=8&hide=asp.net,hlsl,csharp&theme=blueberry&bg_color=60,323232,151515)](https://github.com/anuraghazra/github-readme-stats)
 
