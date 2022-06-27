@@ -8,7 +8,7 @@
 
 💡 ISTJ-A Logistician
 
-<p><img src="https://komarev.com/ghpvc/?username=Av32000&style=flat" alt=mccoderpy> <img src="https://dcbadge.vercel.app/api/shield/593436735380127770" /></p>
+<a href="https://discord.com/users/593436735380127770"><img src="https://komarev.com/ghpvc/?username=Av32000&style=flat" alt=mccoderpy> <img src="https://dcbadge.vercel.app/api/shield/593436735380127770" /></a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=av32000&repo=Suggestions-Bot&theme=blueberry&bg_color=60,323232,151515)](https://github.com/Av32000/Suggestions-Bot) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=av32000&repo=YoutubeDownloader&theme=blueberry&bg_color=60,323232,151515)](https://github.com/Av32000/YoutubeDownloader) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=av32000&repo=CustomCsharpComponents&theme=blueberry&bg_color=60,323232,151515)](https://github.com/Av32000/CustomCsharpComponents) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=av32000&repo=VSTrad&theme=blueberry&bg_color=60,323232,151515)](https://github.com/Av32000/VSTrad)
 
