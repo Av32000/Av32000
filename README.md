@@ -8,7 +8,7 @@
 
 💡 ISTJ-A Logistician
 
-<a href="https://discord.com/users/593436735380127770"><img src="https://komarev.com/ghpvc/?username=Av32000&style=flat" alt=mccoderpy> <img src="https://dcbadge.vercel.app/api/shield/593436735380127770" /></a>
+<a href="https://discord.com/users/593436735380127770"><img src="https://komarev.com/ghpvc/?username=Av32000&style=for-the-badge" alt=mccoderpy> <img src="https://dcbadge.vercel.app/api/shield/593436735380127770" /></a>
 
 [![Readme Card](https://github-readme-stats-seven-blond-59.vercel.app/api/pin/?username=av32000&repo=YoutubeDownloader&theme=visual_studio&bg_color=60,323232,151515)](https://github.com/Av32000/YoutubeDownloader) [![Readme Card](https://github-readme-stats-seven-blond-59.vercel.app/api/pin/?username=av32000&repo=GarticCheat&theme=visual_studio&bg_color=60,323232,151515)](https://github.com/Av32000/GarticCheat)  [![Readme Card](https://github-readme-stats-seven-blond-59.vercel.app/api/pin/?username=av32000&repo=CodeLyoko-UHC&theme=visual_studio&bg_color=60,323232,151515)](https://github.com/Av32000/CodeLyoko-UHC) [![Readme Card](https://github-readme-stats-seven-blond-59.vercel.app/api/pin/?username=av32000&repo=Parthenis&theme=visual_studio&bg_color=60,323232,151515)](https://github.com/Av32000/Parthenis)
 
