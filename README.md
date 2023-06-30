@@ -1,3 +1,7 @@
+<h1 align="center">Av32000</h1>
+
+<div align="center">
+  
 🔫 Overwatch and Valorant player
 
 🎮 Minecraft, Warframe player
@@ -16,3 +20,4 @@
 
 [![Top Langs](https://github-readme-stats-seven-blond-59.vercel.app/api/top-langs/?username=av32000&langs_count=8&hide=asp.net,hlsl,csharp&theme=visual_studio&bg_color=60,323232,151515&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
