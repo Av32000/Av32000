@@ -8,7 +8,7 @@
 
 💾 NodeJS / C# / Java developer
 
-🔮 Discord.JS fan
+🔮 Discord API fan
 
 💡 ISTJ-A Logistician
 
