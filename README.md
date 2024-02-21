@@ -1,14 +1,14 @@
 <h1 align="center">Av32000</h1>
 
 <div align="center">
-  
-🔫 Overwatch and Valorant player
-
-🎮 Minecraft, Warframe player
 
 💾 NodeJS / C# / Java developer
 
 🔮 Discord API fan
+  
+🔫 Overwatch and Valorant player
+
+🎮 Minecraft, Warframe player
 
 💡 ISTJ-A Logistician
 
