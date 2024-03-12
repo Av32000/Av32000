@@ -2,7 +2,7 @@
 
 <div align="center">
 
-💾 NodeJS / C# / Java developer
+💾 Node.JS / React / C# developer
 
 🔮 Discord API fan
   
