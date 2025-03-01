@@ -6,9 +6,9 @@
 
 🔮 Discord API fan
   
-🔫 Overwatch and Valorant player
+🔫 Valorant player
 
-🎮 Minecraft, Warframe player
+🎮 Minecraft, Celeste player
 
 💡 ISTJ-A Logistician
 
