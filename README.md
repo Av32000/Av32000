@@ -4,7 +4,7 @@
 
 💾 Node.JS / React / C# developer
 
-🔮 Discord API fan
+🩵 Arch Linux user btw
   
 🔫 Valorant player
 
