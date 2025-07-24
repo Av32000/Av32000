@@ -2,15 +2,15 @@
 
 <div align="center">
 
-💾 Node.JS / React / C# developer
+💾 `Developer` Node.JS / React / Rust
 
-🩵 Arch Linux user btw
-  
-🔫 Valorant player
+🎮 `Player` Valorant, Minecraft, Celeste
 
-🎮 Minecraft, Celeste player
+💡 `Logistician` ISTJ-A
 
-💡 ISTJ-A Logistician
+💙 `Arch btw` Arch Linux user btw
+
+🎥 `Cinema` Hobbyist filmmaker
 
 <a href="https://discord.com/users/593436735380127770"><img src="https://komarev.com/ghpvc/?username=Av32000&style=for-the-badge" alt=mccoderpy> <img src="https://dcbadge.vercel.app/api/shield/593436735380127770" /></a>
 
