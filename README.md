@@ -12,7 +12,7 @@
 
 🎥 `Cinema` Hobbyist filmmaker
 
-<a href="https://discord.com/users/593436735380127770"><img src="https://komarev.com/ghpvc/?username=Av32000&style=for-the-badge" alt=mccoderpy> <img src="https://dcbadge.vercel.app/api/shield/593436735380127770" /></a>
+<a href="https://discord.com/users/593436735380127770"><img src="https://komarev.com/ghpvc/?username=Av32000&style=for-the-badge" alt=mccoderpy> <img src="https://dcbadge.limes.pink/api/shield/593436735380127770" /></a>
 
 [![Readme Card](https://github-readme-stats-seven-blond-59.vercel.app/api/pin/?username=av32000&repo=OMCP&theme=visual_studio&bg_color=60,323232,151515)](https://github.com/Av32000/OMCP) [![Readme Card](https://github-readme-stats-seven-blond-59.vercel.app/api/pin/?username=av32000&repo=Embed-Builder&theme=visual_studio&bg_color=60,323232,151515)](https://github.com/Av32000/EmbedBuilder)  [![Readme Card](https://github-readme-stats-seven-blond-59.vercel.app/api/pin/?username=av32000&repo=av32000.github.io&theme=visual_studio&bg_color=60,323232,151515)](https://github.com/Av32000/av32000.github.io) [![Readme Card](https://github-readme-stats-seven-blond-59.vercel.app/api/pin/?username=av32000&repo=Finance-Tracker&theme=visual_studio&bg_color=60,323232,151515)](https://github.com/Av32000/Finance-Tracker)
 
