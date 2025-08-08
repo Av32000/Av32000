@@ -16,6 +16,4 @@
 
 [![Readme Card](https://github-readme-stats-seven-blond-59.vercel.app/api/pin/?username=av32000&repo=OMCP&theme=visual_studio&bg_color=60,323232,151515)](https://github.com/Av32000/OMCP) [![Readme Card](https://github-readme-stats-seven-blond-59.vercel.app/api/pin/?username=av32000&repo=Embed-Builder&theme=visual_studio&bg_color=60,323232,151515)](https://github.com/Av32000/EmbedBuilder)  [![Readme Card](https://github-readme-stats-seven-blond-59.vercel.app/api/pin/?username=av32000&repo=av32000.github.io&theme=visual_studio&bg_color=60,323232,151515)](https://github.com/Av32000/av32000.github.io) [![Readme Card](https://github-readme-stats-seven-blond-59.vercel.app/api/pin/?username=av32000&repo=Finance-Tracker&theme=visual_studio&bg_color=60,323232,151515)](https://github.com/Av32000/Finance-Tracker)
 
-[![Av32000 GitHub stats](https://github-readme-stats-seven-blond-59.vercel.app/api?username=av32000&show_icons=true&theme=visual_studio&bg_color=60,323232,151515&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
